@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "My name is Shi-Tong Peng,  "
+description              : #"My name is Shi-Tong Peng,  "
 repository               : "shi-tong/shi-tong.github.io"
 google_scholar_stats_use_cdn : true
 

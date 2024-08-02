@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my .
+Hi, my name is Shi-Tong Peng.
 
-My research interest includes process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -27,17 +27,9 @@ My research interest includes process monitoring, additive manufacturing, and li
 - *2022.02*: &nbsp;🎉🎉 xxxx. 
 
 # 📝 Publications 
+ - B. Gao, **S. Peng**, T. Li, et al. Integration of improved meta-heuristic and machine learning for optimizing energy efficiency in additive manufacturing process, _Energy_, 2024, 306: 132518. [pdf](/docs/2024-1.pdf)
+ - S. Yang, **S. Peng**, J. Guo, F. Wang. A review on physics-informed machine learning for monitoring metal additive manufacturing process, _Advanced Manufacturing_, 2024, 2: 0008. [pdf](https://elsp-homepage.oss-cn-hongkong.aliyuncs.com/paper/journal/open/AM/2024/am20240008-publication.pdf)
 
-B. Gao, **S. Peng**, T. Li, et al. [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-</div>
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -51,5 +43,6 @@ B. Gao, **S. Peng**, T. Li, et al. [Deep Residual Learning for Image Recognition
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Fundings
+- *2023*, NSFC.
+- *2022*, Guangdong province project.

@@ -29,7 +29,7 @@ My research interests include process monitoring, additive manufacturing, and li
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Welcome two students joining us. 
-- *2022.02*: &nbsp;🎉🎉 xxxx. 
+- *2022.02*: &nbsp;🎉🎉 Congrts. 
 
 # 📝 Publications 
  - B. Gao, **S. Peng***, T. Li, et al. Integration of improved meta-heuristic and machine learning for optimizing energy efficiency in additive manufacturing process, _Energy_, 2024, 306: 132518. [pdf](/publications/2024-1.pdf)  

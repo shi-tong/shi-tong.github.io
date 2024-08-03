@@ -24,7 +24,7 @@ My research interests include process monitoring, additive manufacturing, and li
 
 <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers  at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
+
 
 
 # 🔥 News
@@ -43,8 +43,7 @@ My research interest includes speech synthesis, neural machine translation and a
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Lorem  
 
 # 📖 Educations
 - *2020*, Ph.D., Dalian University of Technology

@@ -20,7 +20,7 @@ redirect_from:
 # 🤵🏻 About me 
 Hi, my name is Shi-Tong Peng, joined the Shantou University as an associate professor in 2020.
 
-My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>|| <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>|| <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers  at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 

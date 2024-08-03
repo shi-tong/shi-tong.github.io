@@ -26,7 +26,7 @@ My research interest includes speech synthesis, neural machine translation and a
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 Welcome two students join us. 
 - *2022.02*: &nbsp;🎉🎉 xxxx. 
 
 # 📝 Publications 

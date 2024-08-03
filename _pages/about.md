@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me 
-Hi, my name is Shi-Tong Peng.
+Hi, my name is Shi-Tong Peng, joined the Shantou University as an associate professor in 2020.
 
-My research interest includes process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 
 
 # 🔥 News
@@ -28,7 +29,7 @@ My research interest includes process monitoring, additive manufacturing, and li
 - *2022.02*: &nbsp;🎉🎉 xxxx. 
 
 # 📝 Publications 
- - B. Gao, **S. Peng***, T. Li, et al. Integration of improved meta-heuristic and machine learning for optimizing energy efficiency in additive manufacturing process, _Energy_, 2024, 306: 132518. [pdf](/docs/2024-1.pdf)
+ - B. Gao, **S. Peng***, T. Li, et al. Integration of improved meta-heuristic and machine learning for optimizing energy efficiency in additive manufacturing process, _Energy_, 2024, 306: 132518. [pdf](/docs/2024-1.pdf)  
  - S. Yang, **S. Peng***, J. Guo, F. Wang. A review on physics-informed machine learning for monitoring metal additive manufacturing process, _Advanced Manufacturing_, 2024, 2: 0008. [pdf](https://elsp-homepage.oss-cn-hongkong.aliyuncs.com/paper/journal/open/AM/2024/am20240008-publication.pdf)
 
 # 🎖 Honors and Awards

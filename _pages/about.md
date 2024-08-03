@@ -20,11 +20,7 @@ redirect_from:
 # 🤵🏻 About me 
 Hi, my name is Shi-Tong Peng, joined the Shantou University as an associate professor in 2020.
 
-My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total 
-
-<a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-<a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 
 

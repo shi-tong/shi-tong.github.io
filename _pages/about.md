@@ -41,7 +41,7 @@ My research interests include process monitoring, additive manufacturing, and li
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem  
+- '2021.10' Lorem  
 
 # 📖 Educations
 - *2020*, Ph.D., Dalian University of Technology

@@ -37,11 +37,10 @@ My research interests include process monitoring, additive manufacturing, and li
  - 彭世通，高宝赟，洪凤莲，一种注塑成型能耗限额快速制定方法、系统及存储介质.
  - 彭世通，杨守兰，高宝赟，一种增材制造制件几何形貌监测方法、系统和存储介质.
  - 彭世通，李翰年，杨守兰，基于核慢特征分析的直接能量沉积缺陷识别方法及系统.
- - 彭世通，丁煜城，
 
 
 # 🎖 Honors and Awards
-- ' 2021.10 ', Lorem  
+- '2021.10', Lorem  
 
 # 📖 Educations
 - *2020*, Ph.D., Dalian University of Technology

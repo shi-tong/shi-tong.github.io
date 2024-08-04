@@ -1,11 +1,11 @@
 ---
-permalink: /
-title: ""
+layout: default
+title: "Blog"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /blog/
-  - /blog.html
+
 ---
 
-#xxx
+# xxx

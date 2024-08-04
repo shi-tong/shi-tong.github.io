@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me 
-Hi, my name is Shi-Tong Peng, joined the Shantou University as an associate professor in 2020.
+Hi, I am Shi-Tong Peng, joined the Shantou University as an associate professor in 2020.
 
 My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAA'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -43,7 +43,7 @@ My research interests include process monitoring, additive manufacturing, and li
 - '2021.10', Lorem  
 
 # 📖 Educations
-- *2020*, Ph.D., Dalian University of Technology
+- *2020*, Ph.D., Dalian University of Technology (supervised by [Prof. Hong-Chao Zhang](https://www.depts.ttu.edu/imse/faculty/hong-chao_zhang/index.php) and [Prof. Tao Li](http://faculty.dlut.edu.cn/litao/zh_CN/index.htm))
 - *2019*, Visiting PhD student, Texas Tech University
 - *2015*, M.S., Dalian University of Technology
 - *2013*, B.S., Wuhan University of Science and Technology 

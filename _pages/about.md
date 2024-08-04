@@ -40,7 +40,7 @@ My research interests include process monitoring, additive manufacturing, and li
 
 
 # 🎖 Honors and Awards
-- ``2021``, Lorem   
+- ``2020``, Shantou High-level Talents (B-level)   
 
 # 📖 Educations
 - *2020*, Ph.D., Dalian University of Technology (supervised by [Prof. Hong-Chao Zhang](https://www.depts.ttu.edu/imse/faculty/hong-chao_zhang/index.php) and [Prof. Tao Li](http://faculty.dlut.edu.cn/litao/zh_CN/index.htm))
@@ -50,5 +50,8 @@ My research interests include process monitoring, additive manufacturing, and li
 
 
 # 💻 Fundings
-- *2023*, NSFC.
-- *2022*, Guangdong province project.
+- *2023*, NSFC. ongoing
+- *2022*, Guangdong province project. ongoing
+- *2022*, Enterprise project. completed
+- *2021*, Guangdong province project. completed
+- *2021*, STU project. ongoing

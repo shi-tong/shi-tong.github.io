@@ -40,7 +40,7 @@ My research interests include process monitoring, additive manufacturing, and li
 
 
 # 🎖 Honors and Awards
-- '2021.10', Lorem  
+- `2021`, Lorem   
 
 # 📖 Educations
 - *2020*, Ph.D., Dalian University of Technology (supervised by [Prof. Hong-Chao Zhang](https://www.depts.ttu.edu/imse/faculty/hong-chao_zhang/index.php) and [Prof. Tao Li](http://faculty.dlut.edu.cn/litao/zh_CN/index.htm))

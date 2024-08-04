@@ -34,14 +34,14 @@ My research interests include process monitoring, additive manufacturing, and li
  - Y. Wu, Y. Feng, **S. Peng***, et al. Generative machine learning‑based multi‑objective process parameter optimization towards energy and quality of injection molding, _Environmental Science and Pollution Research_,2023, 30(18):51518-51530 [pdf](/publications/Wu.pdf)
 
 # 📚 Patents
- - 彭世通，高宝赟，洪凤莲，
- - 彭世通，杨守兰，高宝赟，
- - 彭世通，李翰年，杨守兰，
+ - 彭世通，高宝赟，洪凤莲，一种注塑成型能耗限额快速制定方法、系统及存储介质.
+ - 彭世通，杨守兰，高宝赟，一种增材制造制件几何形貌监测方法、系统和存储介质.
+ - 彭世通，李翰年，杨守兰，基于核慢特征分析的直接能量沉积缺陷识别方法及系统.
  - 彭世通，丁煜城，
 
 
 # 🎖 Honors and Awards
-- '2021.10' Lorem  
+- ' 2021.10 ', Lorem  
 
 # 📖 Educations
 - *2020*, Ph.D., Dalian University of Technology

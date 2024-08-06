@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me 
-Hi, I am Shi-Tong Peng, joined the Shantou University as an associate professor in 2020.
+Hi, I am Shi-Tong Peng, joined the Shantou University as an associate professor in 2020. If you are seeking any form of academic collaboration, please feel free to reach out to me at shtpeng@stu.edu.cn 
 
-My research interests include process monitoring, additive manufacturing, and life cycle assessment. I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include process monitoring, additive manufacturing, uncertain quantification, energy/quality management, and life cycle assessment. I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Welcome two students joining us. 
-- *2024.05*: &nbsp;🎉🎉 Congrts.  
+- *2024.05*: &nbsp;🎉🎉 Congrts to Fenglian on the successful defense of her Master's thesis!  
 
 
 
@@ -55,4 +55,4 @@ My research interests include process monitoring, additive manufacturing, and li
 - *2022*, Guangdong province project. ongoing
 - *2022*, Enterprise project. completed
 - *2021*, Guangdong province project. completed
-- *2021*, STU project. ongoing
+- *2020*, STU startup project. ongoing

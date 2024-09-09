@@ -31,6 +31,7 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 
 # 📝 Publications 
+ - J. Yang, L. Duan, **S. Peng**, R. Heijungs, et al. Toward More Realistic Estimates of Product Displacement in Life Cycle Assessment, _Environmental Science & Technology_, 2024, 
  - B. Gao, **S. Peng***, T. Li, et al. Integration of improved meta-heuristic and machine learning for optimizing energy efficiency in additive manufacturing process, _Energy_, 2024, 306: 132518 [pdf](/publications/2024-1.pdf)  
  - S. Yang, **S. Peng***, J. Guo, F. Wang. A review on physics-informed machine learning for monitoring metal additive manufacturing process, _Advanced Manufacturing_, 2024, 2: 0008 [pdf](https://elsp-homepage.oss-cn-hongkong.aliyuncs.com/paper/journal/open/AM/2024/am20240008-publication.pdf)
  - Y. Wu, Y. Feng, **S. Peng***, et al. Generative machine learning‑based multi‑objective process parameter optimization towards energy and quality of injection molding, _Environmental Science and Pollution Research_,2023, 30(18):51518-51530 [pdf](/publications/Wu.pdf)
@@ -39,6 +40,7 @@ My research interests include process monitoring, additive manufacturing, uncert
  - 彭世通，高宝赟，洪凤莲，一种注塑成型能耗限额快速制定方法、系统及存储介质.
  - 彭世通，杨守兰，高宝赟，一种增材制造制件几何形貌监测方法、系统和存储介质.
  - 彭世通，李翰年，杨守兰，基于核慢特征分析的直接能量沉积缺陷识别方法及系统.
+ - 彭世通，丁煜城，杨守兰，郭嘉楠，王奉涛，一种注塑过程中能耗与质量协调监控方法、设备及介质.
 
 
 # 🎖 Honors and Awards

@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me 
-Hi, my name is Shi-Tong Peng and I joined Shantou University as an associate professor in 2020. If you are seeking any form of academic collaboration, please feel free to reach out to me at shtpeng@stu.edu.cn 
+Hi, my name is Shi-Tong Peng and I joined Shantou University as an associate professor in 2020. If you are seeking any form of academic collaboration, please feel free to reach out at shtpeng@stu.edu.cn 
 
-My research interests include process monitoring, additive manufacturing, uncertain quantification, energy/quality management, and life cycle assessment. I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
+My research interests include process monitoring, additive manufacturing, uncertainty quantification, energy/quality management, and life cycle assessment. I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
 
 
 

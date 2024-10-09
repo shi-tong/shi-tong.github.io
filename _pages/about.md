@@ -31,7 +31,7 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 
 # 📝 Publications 
- - J. Huang, Z. Zeng, F. Hong, Q. Yang, F. Wu, **S. Peng**. Sustainable operation strategy for wet flue gas desulfurization at a coal-Fired power plant via an improved many-objective optimization, _Sustainability_, 2024, 16: 8521.
+ - J. Huang, Z. Zeng, F. Hong, Q. Yang, F. Wu, **S. Peng***. Sustainable operation strategy for wet flue gas desulfurization at a coal-Fired power plant via an improved many-objective optimization, _Sustainability_, 2024, 16: 8521.
  - J. Yang, L. Duan, **S. Peng**, R. Heijungs, et al. Toward More Realistic Estimates of Product Displacement in Life Cycle Assessment, _Environmental Science & Technology_, 2024, 
  - B. Gao, **S. Peng***, T. Li, et al. Integration of improved meta-heuristic and machine learning for optimizing energy efficiency in additive manufacturing process, _Energy_, 2024, 306: 132518 [pdf](/publications/2024-1.pdf)  
  - S. Yang, **S. Peng***, J. Guo, F. Wang. A review on physics-informed machine learning for monitoring metal additive manufacturing process, _Advanced Manufacturing_, 2024, 2: 0008 [pdf](https://elsp-homepage.oss-cn-hongkong.aliyuncs.com/paper/journal/open/AM/2024/am20240008-publication.pdf)

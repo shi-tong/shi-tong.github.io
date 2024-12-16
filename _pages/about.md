@@ -32,8 +32,9 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 
 # 📝 Publications 
+ - B Gao, S Yang, **S Peng***. Bayesian Monte Carlo-assisted life cycle assessment of lithium iron phosphate batteries production for electric vehicles under uncertainty, _Green Manufacturing Open_, 2024, 2: 18 [pdf](/publications/GMO1.pdf)
  - J Huang, Y Li, X Li, Y Ding, F Hong, **S. Peng***. Energy Consumption Prediction of Injection Molding Process Based on Rolling Learning Informer Model, _Polymers_, 2024, 16(21): 3097
- - X Zeng, S Peng**, J Guo, G Chen, J Tang, F Wang. Classification of melt pool states for defect detection in laser directed energy deposition using FixConvNeXt model, _Measurement Science and Technology_, 2024, 36(1): 015201
+ - X Zeng, **S Peng**, J Guo, G Chen, J Tang, F Wang. Classification of melt pool states for defect detection in laser directed energy deposition using FixConvNeXt model, _Measurement Science and Technology_, 2024, 36(1): 015201
  - H. Xiao, B. Gao, S. Yu, B. Liu, S. Cao, **S. Peng***. Life cycle assessment of metal powder production: a Bayesian stochastic Kriging model-based autonomous estimation, _Autonomous Intelligent Systems_, 2024, 4(1): 1-14.
  - J. Huang, Z. Zeng, F. Hong, Q. Yang, F. Wu, **S. Peng***. Sustainable operation strategy for wet flue gas desulfurization at a coal-Fired power plant via an improved many-objective optimization, _Sustainability_, 2024, 16: 8521.
  - J. Yang, L. Duan, **S. Peng**, R. Heijungs, et al. Toward More Realistic Estimates of Product Displacement in Life Cycle Assessment, _Environmental Science & Technology_, 2024, 

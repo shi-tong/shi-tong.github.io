@@ -26,7 +26,7 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the National Scholarship for graduate student.
-- *2024.09*: &nbsp;🎉🎉 Welcome two students joining us. 
+- *2024.09*: &nbsp;🎉🎉 Welcome three students joining us. 
 - *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!  
 
 

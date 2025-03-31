@@ -31,6 +31,7 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 
 
+
 # 📝 Publications 
  - Y Ding, Y Zhang, J Huang, **S Peng***. Incremental Pyraformer–Deep Canonical Correlation Analysis: A Novel Framework for Effective Fault Detection in Dynamic Nonlinear Processes, _Algorithms_, 2025, 18 (3), 130.
  - **S Peng**, S Yang, B Gao, W Liu, F Wang, Z Tang. Prediction of 3D temperature field through single 2D temperature data based on transfer learning-based PINN model in laser-based directed energy deposition, _Journal of Manufacturing Processes_, 2025, 138: 140-156.

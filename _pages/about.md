@@ -32,7 +32,8 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 
 # 📝 Publications 
- - S Peng, S Yang, B Gao, W Liu, F Wang, Z Tang. Prediction of 3D temperature field through single 2D temperature data based on transfer learning-based PINN model in laser-based directed energy deposition, _Journal of Manufacturing Processes_, 2025, 138: 140-156.
+ - Y Ding, Y Zhang, J Huang, **S Peng***. Incremental Pyraformer–Deep Canonical Correlation Analysis: A Novel Framework for Effective Fault Detection in Dynamic Nonlinear Processes, _Algorithms_, 2025, 18 (3), 130.
+ - **S Peng**, S Yang, B Gao, W Liu, F Wang, Z Tang. Prediction of 3D temperature field through single 2D temperature data based on transfer learning-based PINN model in laser-based directed energy deposition, _Journal of Manufacturing Processes_, 2025, 138: 140-156.
  - S Yang, H Li, Z Tang, W Liu, F Wang, **S. Peng***. Data fusion and swin transformer architecture-based model for monitoring geometric morphology of blue laser directed energy deposited Al-Mg alloy, _Measurement_, 2025, 248: 116992.
  - B Gao, S Yang, **S Peng***. Bayesian Monte Carlo-assisted life cycle assessment of lithium iron phosphate batteries production for electric vehicles under uncertainty, _Green Manufacturing Open_, 2024, 2: 18 [pdf](/publications/GMO1.pdf)
  - J Huang, Y Li, X Li, Y Ding, F Hong, **S. Peng***. Energy Consumption Prediction of Injection Molding Process Based on Rolling Learning Informer Model, _Polymers_, 2024, 16(21): 3097.

@@ -23,7 +23,8 @@ Hi, my name is Shi-Tong Peng and I joined Shantou University as an associate pro
 My research interests include process monitoring, additive manufacturing, uncertainty quantification, energy/quality management, and life cycle assessment. I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
 
 
-**Graduate Research Opportunities**  
+
+🎓**Graduate Research Opportunities**  
 
 I am actively seeking **2 motivated Master students** to join my small research group each year. Candidates with backgrounds in Mechanical Engineering, Computer Science, Mathematics, Electronics, or Automation are encouraged to apply.  
 

@@ -23,21 +23,21 @@ Hi, my name is Shi-Tong Peng and I joined Shantou University as an associate pro
 My research interests include process monitoring, additive manufacturing, uncertainty quantification, energy/quality management, and life cycle assessment. I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=JWxHJpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
 
 
-**Graduate Research Opportunities**
+**Graduate Research Opportunities**  
 
 I am actively seeking __2 motivated Master students__ to join my small research group each year. Candidates with backgrounds in Mechanical Engineering, Computer Science, Mathematics, Electronics, or Automation are encouraged to apply.
 
--What I value:
-  -Strong __self-motivation__ and commitment to research.
-  -Outstanding academic performance (__GPA ≥ 3.5__ or equivalent).
-  -Solid mathematical foundation (e.g., __>100/150 in postgraduate entrance math exams__).
-  -Interest in __long-term research__ (Ph.D. aspirants are particularly welcome!).
+- What I value:
+  - Strong __self-motivation__ and commitment to research.
+  - Outstanding academic performance (__GPA ≥ 3.5__ or equivalent).
+  - Solid mathematical foundation (e.g., __>100/150 in postgraduate entrance math exams__).
+  - Interest in __long-term research__ (Ph.D. aspirants are particularly welcome!).
 
--What I offer:
-  -__Collaborative mentorship__ focused on deep algorithm development and industrial applications.
-  -__An inclusive environment__ — your potential matters more than your undergraduate institution.
-  -__Monthly stipend__.
-  -__Active support for doctoral applications__.  
+- What I offer:
+  - __Collaborative mentorship__ focused on deep algorithm development and industrial applications.
+  - __An inclusive environment__ — your potential matters more than your undergraduate institution.
+  - __Monthly stipend__.
+  - __Active support for doctoral applications__.  
 
 
 

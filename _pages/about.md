@@ -25,19 +25,19 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 **Graduate Research Opportunities**  
 
-I am actively seeking __2 motivated Master students__ to join my small research group each year. Candidates with backgrounds in Mechanical Engineering, Computer Science, Mathematics, Electronics, or Automation are encouraged to apply.
+I am actively seeking **2 motivated Master students** to join my small research group each year. Candidates with backgrounds in Mechanical Engineering, Computer Science, Mathematics, Electronics, or Automation are encouraged to apply.  
 
-- What I value:
-  - Strong __self-motivation__ and commitment to research.
-  - Outstanding academic performance (__GPA ≥ 3.5__ or equivalent).
-  - Solid mathematical foundation (e.g., __>100/150 in postgraduate entrance math exams__).
-  - Interest in __long-term research__ (Ph.D. aspirants are particularly welcome!).
+- **What I value**:  
+  - Strong **self-motivation** and commitment to research.  
+  - Outstanding academic performance (**GPA ≥ 3.5** or equivalent).  
+  - Solid mathematical foundation (e.g., **>100/150 in postgraduate entrance math exams**).  
+  - Interest in **long-term research** (Ph.D. aspirants are particularly welcome!).  
 
-- What I offer:
-  - __Collaborative mentorship__ focused on deep algorithm development and industrial applications.
-  - __An inclusive environment__ — your potential matters more than your undergraduate institution.
-  - __Monthly stipend__.
-  - __Active support for doctoral applications__.  
+- **What I offer**:  
+  - **Collaborative mentorship** focused on deep algorithm development and industrial applications.  
+  - **An inclusive environment** — your potential matters more than your undergraduate institution.  
+  - **Monthly stipend**.  
+  - **Active support for doctoral applications**.
 
 
 

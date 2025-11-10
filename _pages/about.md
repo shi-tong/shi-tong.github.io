@@ -26,10 +26,10 @@ My research interests include process monitoring, additive manufacturing, uncert
 
 🎓**Graduate Research Opportunities**  
 
-I am actively seeking **2 motivated Master students** to join my small research group each year. Candidates with backgrounds in Mechanical Engineering, Computer Science, Mathematics, Electronics, or Automation are encouraged to apply.  
+I am actively seeking **2 motivated Master students** to join my small research group each year. Candidates with backgrounds in Mechanical Engineering, Computer Science, Mathematics, Electronics, or Automation are encouraged to apply.   
 
 
-- **What I value**:  
+- **What I value**:   
   - Strong **self-motivation** and commitment to research.  
   - Outstanding academic performance (**GPA ≥ 3.5** or equivalent).  
   - Solid mathematical foundation (e.g., **>100/150 in postgraduate entrance math exams**).  
@@ -49,8 +49,6 @@ I am actively seeking **2 motivated Master students** to join my small research 
 - *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the National Scholarship for graduate student.
 - *2024.09*: &nbsp;🎉🎉 Welcome three students joining us. 
 - *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!  
-
-
 
 
 # 📝 Publications 

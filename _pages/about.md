@@ -44,6 +44,7 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Congrats! Shoulan won the National Scholarship for graduate student.
 - *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the National Scholarship for graduate student.
 - *2024.09*: &nbsp;🎉🎉 Welcome three students joining us. 
 - *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!  
@@ -52,6 +53,13 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 📝 Publications 
+ - **S Peng**, S Yang, B Gao, W Liu, F Wang, Z Tang. Prediction of 3D temperature field through single 2D temperature data based on transfer learning-based PINN model in laser-based directed energy deposition. _Journal of Manufacturing Processes_, 2025, 138, 140-156.
+ - S Yang, H Li, Z Tang, W Liu, F Wang, **S Peng***. Data fusion and swin transformer architecture-based model for monitoring geometric morphology of blue laser directed energy deposited Al-Mg alloy. _Measurement_, 2025, 248, 116992.
+ - Y Li, X Huang, S Yu, M Kumar, **S Peng***. Temporal-mask multiple-scale fusion network: a novel hybrid network framework for robust fault diagnosis under varying noise interference, _Computers & Chemical Engineering_, 2025, 109327.
+ - Y Lin, G Lu, T Li, C Liu, H Zhang, **S Peng***. Rapid life cycle assessment for metal additive manufactured product: a multi-feature based predictive approach, _Journal of Cleaner Production_, 2025, 521, 146221.
+ - J Tang, **S Peng***, J Guo, D Song, D Gao, W Liu, F Wang*. DT and LLM Driven Intelligent Maintenance System for L-DED and DAG-Based LLM Fault Diagnosis Evaluation Framework, _Applied Soft Computing_, 2025, 113942.
+ - S Yang, Z Tang, Y Ye, M Kumar, F Wang, **S Peng***. A PINN–EWMA framework with uncertainty quantification for high-fidelity temperature field modeling and early defect warning in directed energy deposition of thin-walled structures, _Reliability Engineering & System Safety_, 2025, 111834.
+ - Z Liao, Y Yu, **S Peng**, J Guo, M He, B Chen, Z Liu, W Liu, H Zhang. A knowledge-data driven method for in-situ quality prediction in laser directed energy deposition using DfKDED and YOLOv7-tinyR, _Optics & Laser Technology_, 2025, 192, 113676.
  - Y Ding, Y Zhang, J Huang, **S Peng***. Incremental Pyraformer–Deep Canonical Correlation Analysis: A Novel Framework for Effective Fault Detection in Dynamic Nonlinear Processes, _Algorithms_, 2025, 18 (3), 130.
  - **S Peng**, S Yang, B Gao, W Liu, F Wang, Z Tang. Prediction of 3D temperature field through single 2D temperature data based on transfer learning-based PINN model in laser-based directed energy deposition, _Journal of Manufacturing Processes_, 2025, 138: 140-156.
  - S Yang, H Li, Z Tang, W Liu, F Wang, **S. Peng***. Data fusion and swin transformer architecture-based model for monitoring geometric morphology of blue laser directed energy deposited Al-Mg alloy, _Measurement_, 2025, 248: 116992.

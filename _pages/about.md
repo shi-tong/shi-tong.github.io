@@ -88,6 +88,7 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 💻 Fundings
+- *2025*, NSF of Guangdong Province. ongoing
 - *2023*, NSFC. ongoing
 - *2022*, Guangdong province project. ongoing
 - *2022*, Enterprise project. completed

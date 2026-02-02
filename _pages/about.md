@@ -52,6 +52,8 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 📝 Publications 
+ - F Wang*, D Song, G Chen, B Qiu, **S Peng***, J Guo, X Ji, W Liu. Melt pool state monitoring for wire laser-based directed energy deposition based on multi-kernel squeeze-and-excitation model-agnostic meta-learning. _Optics & Laser Technology_, 2026, 197, 114793.
+ - S Yang, Z Liao, Z Wang, W Liu, F Wang*, M Kumar, S Yu, H Zhang, **S Peng***. Physics-informed Fourier-Gaussian-Laplacian neural network for temperature field reconstruction and accurate prediction in laser wire additive manufacturing. _Journal of Manufacturing Processes_, 2026, 157, 871-900.
  - **S Peng**, S Yang, B Gao, W Liu, F Wang, Z Tang. Prediction of 3D temperature field through single 2D temperature data based on transfer learning-based PINN model in laser-based directed energy deposition. _Journal of Manufacturing Processes_, 2025, 138, 140-156.
  - S Yang, H Li, Z Tang, W Liu, F Wang, **S Peng***. Data fusion and swin transformer architecture-based model for monitoring geometric morphology of blue laser directed energy deposited Al-Mg alloy. _Measurement_, 2025, 248, 116992.
  - Y Li, X Huang, S Yu, M Kumar, **S Peng***. Temporal-mask multiple-scale fusion network: a novel hybrid network framework for robust fault diagnosis under varying noise interference, _Computers & Chemical Engineering_, 2025, 109327.
@@ -94,3 +96,4 @@ I am actively seeking **2 motivated Master students** to join my small research 
 - *2022*, Enterprise project. completed
 - *2021*, Guangdong province project. completed
 - *2020*, STU startup project. ongoing
+- 

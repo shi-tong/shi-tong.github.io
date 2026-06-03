@@ -52,6 +52,8 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 📝 Publications 
+ - Y Li, Z Zeng, S Yu, J Guo, M Kumar, **S Peng***. A Lightweight Hybrid Temporal Representation Network with Gated Attention Aggregation for Multivariate Industrial Process Fault Diagnosis: A Tennessee Eastman Process Study. _Process Safety and Environmental Protection_, 2026, 213, 109022.
+ - Z Zeng, Y Li, S Yu, M Kumar, H Zhang, **S Peng***. Uncertainty quantified and adaptive thresholding Bayesian autoencoder for trustworthy online anomaly detection in metal additive manufacturing process. _Measurement_, 2026, 280, 121923.
  - Z Zeng, Y Li, S Yu, M Kumar, **S Peng***.A novel hybrid multi-scale and dilated convolution attention network for planetary gear fault diagnosis under noisy and few-shot environment. _Measurement Science and Technology_, 2026, 37, 106002. 
  - F Wang\*, D Song, G Chen, B Qiu, **S Peng***, J Guo, X Ji, W Liu. Melt pool state monitoring for wire laser-based directed energy deposition based on multi-kernel squeeze-and-excitation model-agnostic meta-learning. _Optics & Laser Technology_, 2026, 197, 114793.
  - S Yang, Z Liao, Z Wang, W Liu, F Wang\*, M Kumar, S Yu, H Zhang, **S Peng***. Physics-informed Fourier-Gaussian-Laplacian neural network for temperature field reconstruction and accurate prediction in laser wire additive manufacturing. _Journal of Manufacturing Processes_, 2026, 157, 871-900.

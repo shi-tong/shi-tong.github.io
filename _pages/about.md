@@ -52,6 +52,7 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 📝 Publications 
+ - Y Lin, S Yu, J Yao, J Guo, M Kumar, H Zhang, **S Peng***. EcoLLM: A lightweight ReAct-SFT framework for document-driven LCI extraction and automated LCIA in metal additive manufacturing. _Journal of Cleaner Production_, 2026, 571, 148797. 
  - Y Li, Z Zeng, S Yu, J Guo, M Kumar, **S Peng***. A Lightweight Hybrid Temporal Representation Network with Gated Attention Aggregation for Multivariate Industrial Process Fault Diagnosis: A Tennessee Eastman Process Study. _Process Safety and Environmental Protection_, 2026, 213, 109022.
  - Z Zeng, Y Li, S Yu, M Kumar, H Zhang, **S Peng***. Uncertainty quantified and adaptive thresholding Bayesian autoencoder for trustworthy online anomaly detection in metal additive manufacturing process. _Measurement_, 2026, 280, 121923.
  - Z Zeng, Y Li, S Yu, M Kumar, **S Peng***.A novel hybrid multi-scale and dilated convolution attention network for planetary gear fault diagnosis under noisy and few-shot environment. _Measurement Science and Technology_, 2026, 37, 106002. 

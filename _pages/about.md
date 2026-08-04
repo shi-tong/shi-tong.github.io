@@ -52,6 +52,7 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 📝 Publications 
+ - Y Li, S Yu, Z Zeng, J Guo, M Kumar, **S Peng***. LightTEN: An Efficient and Lightweight Temporal Encoding Network for Remaining Useful Life Prediction. _Reliability Engineering & System Safety_, 2027, 227, 113213.
  - G Lu, Y Lin, S Yu, **S Peng***. Integrated LCA of alkaline water electrolysis using wind-curtailed power: hybrid modeling with byproduct allocation, scale-up effects, and uncertainty quantification. _Energy for Sustainable Development_, 2026, 94, 102077.
  -  Y Lin, S Yu, J Yao, J Guo, M Kumar, H Zhang, **S Peng***. EcoLLM: A lightweight ReAct-SFT framework for document-driven LCI extraction and automated LCIA in metal additive manufacturing. _Journal of Cleaner Production_, 2026, 571, 148797. 
  - Y Li, Z Zeng, S Yu, J Guo, M Kumar, **S Peng***. A Lightweight Hybrid Temporal Representation Network with Gated Attention Aggregation for Multivariate Industrial Process Fault Diagnosis: A Tennessee Eastman Process Study. _Process Safety and Environmental Protection_, 2026, 213, 109022.

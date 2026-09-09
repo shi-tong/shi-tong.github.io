@@ -44,11 +44,14 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Congrats! LI Yi and Shoulan won the "Academic Star" at the College of Engineering, STU.
+- *2026.06*: &nbsp;🎉🎉 Shoulan was awarded the Outstanding Master's Thesis at STU.
 - *2025.10*: &nbsp;🎉🎉 Congrats! Shoulan won the National Scholarship for graduate student.
 - *2025.09*: &nbsp;🎉🎉 Welcome two students joining our group.
+- *2025.09*: &nbsp;🎉🎉 Baoyun was awarded the Outstanding Master's Thesis at STU.
 - *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the National Scholarship for graduate student.
 - *2024.09*: &nbsp;🎉🎉 Welcome three students joining us. 
-- *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!  
+- *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!   
 
 
 # 📝 Publications 

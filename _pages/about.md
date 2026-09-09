@@ -51,7 +51,7 @@ I am actively seeking **2 motivated Master students** to join my small research 
 - *2025.09*: &nbsp;🎉🎉 Baoyun was awarded the Outstanding Master's Thesis at STU.
 - *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the National Scholarship for graduate student.
 - *2024.09*: &nbsp;🎉🎉 Welcome three students joining us. 
-- *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!   
+- *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!    
 
 
 # 📝 Publications 

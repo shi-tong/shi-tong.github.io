@@ -44,17 +44,20 @@ I am actively seeking **2 motivated Master students** to join my small research 
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 LI Yi, Yingzhao, and Zhuopeng won the 'National Scholarship for graduate student'. Congrats!
+- *2026.09*: &nbsp;🎉🎉 Welcome two students joining us.
 - *2026.06*: &nbsp;🎉🎉 Congrats! LI Yi and Shoulan won the "Academic Star" at the College of Engineering, STU.
 - *2026.06*: &nbsp;🎉🎉 Shoulan was awarded the Outstanding Master's Thesis at STU.
-- *2025.10*: &nbsp;🎉🎉 Congrats! Shoulan won the National Scholarship for graduate student.
+- *2025.10*: &nbsp;🎉🎉 Congrats! Shoulan won the 'National Scholarship for graduate student'.
 - *2025.09*: &nbsp;🎉🎉 Welcome two students joining our group.
 - *2025.09*: &nbsp;🎉🎉 Baoyun was awarded the Outstanding Master's Thesis at STU.
-- *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the National Scholarship for graduate student.
+- *2024.10*: &nbsp;🎉🎉 Congrats! Baoyun won the 'National Scholarship for graduate student'.
 - *2024.09*: &nbsp;🎉🎉 Welcome three students joining us. 
 - *2024.05*: &nbsp;🎉🎉 Congrats to Fenglian on the successful defense of her Master's thesis!    
 
 
 # 📝 Publications 
+ - Q Li, H Luo, **S Peng***, J Guo, Z Liu, X Ji, W Liu, F Wang*. Retrieval-Augmented Vision-Language Model for Diagnosis and Closed-Loop Control of Wire-Based Laser Directed Energy Deposition Using Multimodal Sensing, _Applied Soft Computing_, 2027, 204, 116473.
  - Y Li, S Yu, Z Zeng, J Guo, M Kumar, **S Peng***. LightTEN: An Efficient and Lightweight Temporal Encoding Network for Remaining Useful Life Prediction. _Reliability Engineering & System Safety_, 2027, 227, 113213.
  - G Lu, Y Lin, S Yu, **S Peng***. Integrated LCA of alkaline water electrolysis using wind-curtailed power: hybrid modeling with byproduct allocation, scale-up effects, and uncertainty quantification. _Energy for Sustainable Development_, 2026, 94, 102077.
  -  Y Lin, S Yu, J Yao, J Guo, M Kumar, H Zhang, **S Peng***. EcoLLM: A lightweight ReAct-SFT framework for document-driven LCI extraction and automated LCIA in metal additive manufacturing. _Journal of Cleaner Production_, 2026, 571, 148797. 
